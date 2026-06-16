@@ -1,10 +1,14 @@
 {
   "version": "1.0",
   "minecraftVersion": "1.20.1",
-  "loader": "forge",
+  "forgeVersion": "47.4.18",
+  "server": {
+    "ip": "83.168.94.239:50050",
+    "port": 25565
+  },
   "files": [
     {
-      "name": "jei.jar",
+      "path": "mods/jei.jar",
       "url": "https://kr33tu.github.io/Launcherdzialaxd.pl/mods/jei.jar"
     }
   ]
