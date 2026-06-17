@@ -1,19 +1,19 @@
 {
   "files": [
     {
-      "name": "jei.jar",
+      "path": "jei.jar",
       "url": "https://kr33tu.github.io/Launcherdzialaxd.pl/mods/jei.jar"
     },
     {
-      "name": "Jade-1.20.1-Forge-11.13.2.jar",
+      "path": "Jade-1.20.1-Forge-11.13.2.jar",
       "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/Jade-1.20.1-Forge-11.13.2.jar"
     },
     {
-      "name": "BadOptimizations-2.4.1-1.20.1.jar",
+      "path": "BadOptimizations-2.4.1-1.20.1.jar",
       "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/BadOptimizations-2.4.1-1.20.1.jar"
     },
     {
-      "name": "jei-1.20.1-forge-15.20.0.112.jar",
+      "path": "jei-1.20.1-forge-15.20.0.112.jar",
       "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.112.jar"
     }
   ]
