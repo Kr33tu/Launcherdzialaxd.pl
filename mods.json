@@ -4,16 +4,208 @@
   "forgeVersion": "47.2.0",
   "files": [
     {
-      "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BadOptimizations-2.4.1-1.20.1.jar"
+      "path": "logs/2026-06-18-1.log.gz",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/logs/2026-06-18-1.log.gz",
+      "sha256": "372acc4f8a4bbccf5835fb05ad0219e0302afafb9cf87715b5ce9dd55cc10831",
+      "size": 9992
     },
     {
-      "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Jade-1.20.1-Forge-11.13.2.jar"
+      "path": "logs/2026-06-18-2.log.gz",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/logs/2026-06-18-2.log.gz",
+      "sha256": "5c6644ba0e8e4aa2a97684d820c26955dd2963ecf83b9285fa46e4feca6b9028",
+      "size": 10015
     },
     {
-      "path": "mods/jei-1.20.1-forge-15.20.0.112.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/jei-1.20.1-forge-15.20.0.112.jar"
+      "path": "logs/2026-06-18-3.log.gz",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/logs/2026-06-18-3.log.gz",
+      "sha256": "f02816cf6f0edda81293fb6f4ecb3311fd888682fa49b3faf9abf0164724d88e",
+      "size": 1252
+    },
+    {
+      "path": "logs/2026-06-18-4.log.gz",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/logs/2026-06-18-4.log.gz",
+      "sha256": "5fbb4276789bebb59de848cf8dcde07d448805a7515837b5dd292abbd6d88cb7",
+      "size": 10226
+    },
+    {
+      "path": "logs/2026-06-18-5.log.gz",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/logs/2026-06-18-5.log.gz",
+      "sha256": "9c93a1579dfed1dcbcb818afda201f6dce8709defbdb7751eafeef29041ecdb4",
+      "size": 10233
+    },
+    {
+      "path": "logs/2026-06-18-6.log.gz",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/logs/2026-06-18-6.log.gz",
+      "sha256": "6a5cb7432401cc2c651a34d6854b699b85680bbf4dd7172a943621e957e652a5",
+      "size": 19963
+    },
+    {
+      "path": "logs/latest.log",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/logs/latest.log",
+      "sha256": "dce50e4b8faec5b632b8f700cbb546c357ab64ed022e4cf264cd70647ec275f2",
+      "size": 141773
+    },
+    {
+      "path": "mods/mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "sha256": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
+      "size": 460234
+    },
+    {
+      "path": "mods/mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5",
+      "size": 552486
+    },
+    {
+      "path": "mods/mods/jei-1.20.1-forge-15.20.0.112.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/jei-1.20.1-forge-15.20.0.112.jar",
+      "sha256": "2d3a86f503dbde51afa5142951525c37e227016ce8d9e7dfd10bbdd9233f0204",
+      "size": 1385600
+    },
+    {
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/options.txt",
+      "sha256": "b9a9956683e7d36e832c088cd486cda36b5c02737acfe66c3d984a1dd1681a7a",
+      "size": 3467
+    },
+    {
+      "path": "saves/New World/advancements/00000000-0000-0000-0000-000000000000.json",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/advancements/00000000-0000-0000-0000-000000000000.json",
+      "sha256": "9f6e1acc9245867c4baeab7c89f68f014aa54eec8b484ac8bb0fd2841b6724f8",
+      "size": 325
+    },
+    {
+      "path": "saves/New World/data/raids.dat",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/data/raids.dat",
+      "sha256": "e40062d75f16f7fd65f8127d7449fea0195bc2f82da8cf80b008ddeb6f023e13",
+      "size": 89
+    },
+    {
+      "path": "saves/New World/DIM-1/data/raids.dat",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/DIM-1/data/raids.dat",
+      "sha256": "e40062d75f16f7fd65f8127d7449fea0195bc2f82da8cf80b008ddeb6f023e13",
+      "size": 89
+    },
+    {
+      "path": "saves/New World/DIM1/data/raids_end.dat",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/DIM1/data/raids_end.dat",
+      "sha256": "e40062d75f16f7fd65f8127d7449fea0195bc2f82da8cf80b008ddeb6f023e13",
+      "size": 89
+    },
+    {
+      "path": "saves/New World/entities/r.-1.-1.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/entities/r.-1.-1.mca",
+      "sha256": "b173b5f58ca9a8fb831add54823d7f99337b8c758f49d0b13bc0fab7063c344d",
+      "size": 155648
+    },
+    {
+      "path": "saves/New World/entities/r.-1.0.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/entities/r.-1.0.mca",
+      "sha256": "bf2893aca65a8953e3d4f5e3fab7c63187078b40125de6859203f2912b5ba751",
+      "size": 98304
+    },
+    {
+      "path": "saves/New World/entities/r.0.-1.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/entities/r.0.-1.mca",
+      "sha256": "eebab5c32b957d724a738d0bfa72e537ba43324df4db5cc76fb8381568692ffb",
+      "size": 126976
+    },
+    {
+      "path": "saves/New World/entities/r.0.0.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/entities/r.0.0.mca",
+      "sha256": "9e51bbc3623783c39ef2e2842f6209e0745ba4571a712b1227811a19084531c5",
+      "size": 204800
+    },
+    {
+      "path": "saves/New World/icon.png",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/icon.png",
+      "sha256": "3d68419b02857d9375810f35cef5791214e0642d78cbcba7b564c52d3020c3c6",
+      "size": 11051
+    },
+    {
+      "path": "saves/New World/level.dat",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/level.dat",
+      "sha256": "c52771ad3fbac3c837aa5d86b59541e390d4b9f5124df63f0131f0bd3d6f2668",
+      "size": 2012
+    },
+    {
+      "path": "saves/New World/level.dat_old",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/level.dat_old",
+      "sha256": "c5887f2c02f7f15b9bd819c4e84bc7913d821499ca3a1c7915b0969b2824b3d0",
+      "size": 2012
+    },
+    {
+      "path": "saves/New World/playerdata/00000000-0000-0000-0000-000000000000.dat",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/playerdata/00000000-0000-0000-0000-000000000000.dat",
+      "sha256": "890e2b3537836f9bcc94c444715168d85dd6b931eba68aee970f5879840e8169",
+      "size": 735
+    },
+    {
+      "path": "saves/New World/playerdata/00000000-0000-0000-0000-000000000000.dat_old",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/playerdata/00000000-0000-0000-0000-000000000000.dat_old",
+      "sha256": "a9826e5cf511e5e0915cff50a5d887fca494fb00ab0ee18bb1b293d6b4eac8bd",
+      "size": 735
+    },
+    {
+      "path": "saves/New World/poi/r.-1.-1.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/poi/r.-1.-1.mca",
+      "sha256": "5752caebe934389e4de21d33b10716076e7401f7153903d104172840a929ef18",
+      "size": 16384
+    },
+    {
+      "path": "saves/New World/poi/r.0.-1.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/poi/r.0.-1.mca",
+      "sha256": "06dc7e8e5abc65456fb7583b916c1976f073cdde8f5d192dddae0f4172cfde03",
+      "size": 24576
+    },
+    {
+      "path": "saves/New World/poi/r.0.0.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/poi/r.0.0.mca",
+      "sha256": "cd222515aac2243d30f3e125a0be1ab6cc2d30bc96b4b4448869e12762920f11",
+      "size": 12288
+    },
+    {
+      "path": "saves/New World/region/r.-1.-1.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/region/r.-1.-1.mca",
+      "sha256": "71a26b9ca01af151d0546532efb1c96c788a8981f608beafc9415299db19b042",
+      "size": 3706880
+    },
+    {
+      "path": "saves/New World/region/r.-1.0.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/region/r.-1.0.mca",
+      "sha256": "678bd7665dd9bcc86bfd8378bb39882b659f787bd2d82ce09ea9c1b6786707e5",
+      "size": 3977216
+    },
+    {
+      "path": "saves/New World/region/r.0.-1.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/region/r.0.-1.mca",
+      "sha256": "b11fd63832f6a2106282de46079dce8c6552270d21a9058b6810545395d597f5",
+      "size": 3907584
+    },
+    {
+      "path": "saves/New World/region/r.0.0.mca",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/region/r.0.0.mca",
+      "sha256": "b29a2c6a8c0cd40e5a3dafa4eab6816ab4bac92425543745ebd3a14b0a0d59f6",
+      "size": 4136960
+    },
+    {
+      "path": "saves/New World/session.lock",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/session.lock",
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc",
+      "size": 3
+    },
+    {
+      "path": "saves/New World/stats/00000000-0000-0000-0000-000000000000.json",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/saves/New World/stats/00000000-0000-0000-0000-000000000000.json",
+      "sha256": "c4e22dd0119146153e460e66bbbe1a450d101a2d203bfc38e055ec189ce55063",
+      "size": 200
+    },
+    {
+      "path": "usercache.json",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/usercache.json",
+      "sha256": "6792c6a816cfbfb8e6e4d07deaad16e5be74057a2569b90b0f25dd444acf63c5",
+      "size": 105
     }
   ]
 }
