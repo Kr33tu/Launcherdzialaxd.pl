@@ -1,20 +1,19 @@
 {
+  "version": "1.0",
+  "minecraftVersion": "1.20.1",
+  "forgeVersion": "47.2.0",
   "files": [
     {
-      "path": "mods/jei.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/Jade.jar"
+      "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BadOptimizations-2.4.1-1.20.1.jar"
     },
     {
       "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/Jade-1.20.1-Forge-11.13.2.jar"
-    },
-    {
-      "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/BadOptimizations-2.4.1-1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Jade-1.20.1-Forge-11.13.2.jar"
     },
     {
       "path": "mods/jei-1.20.1-forge-15.20.0.112.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.112.jar"
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/jei-1.20.1-forge-15.20.0.112.jar"
     }
   ]
 }
