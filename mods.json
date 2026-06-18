@@ -1,104 +1,20 @@
 {
   "files": [
     {
-      "path": "jei.jar",
+      "path": "mods/jei.jar",
       "url": "https://kr33tu.github.io/Launcherdzialaxd.pl/mods/jei.jar"
     },
     {
-      "path": "Jade-1.20.1-Forge-11.13.2.jar",
+      "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
       "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/Jade-1.20.1-Forge-11.13.2.jar"
     },
     {
-      "path": "BadOptimizations-2.4.1-1.20.1.jar",
+      "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
       "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/BadOptimizations-2.4.1-1.20.1.jar"
     },
     {
-      "path": "jei-1.20.1-forge-15.20.0.112.jar",
+      "path": "mods/jei-1.20.1-forge-15.20.0.112.jar",
       "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.112.jar"
-    },
-    {
-      "path":"EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar"
-    },
-    {
-      "path": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar"
-    },
-    {
-      "path": "autosyncyes-1.0.0-forge-1.20.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/autosyncyes-1.0.0-forge-1.20.1.jar"
-    },
-    {
-      "path": "blur-forge-3.1.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/blur-forge-3.1.1.jar"
-    },
-    {
-      "path":"cinematiczoom-1.0.0k.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/cinematiczoom-1.0.0k.jar"
-    },
-    {
-      "path": "citresewn-1.20.1-5.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/citresewn-1.20.1-5.jar"
-    },
-    {
-      "path": "clientsort-forge-2.1.7+1.20.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/clientsort-forge-2.1.7+1.20.1.jar"
-    },
-    {
-      "path": "copycats-3.0.7+mc.1.20.1-forge.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/copycats-3.0.7+mc.1.20.1-forge.jar"
-    },
-    {
-      "path": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar"
-    },
-    {
-      "path": "embeddium-0.3.31+mc1.20.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/embeddium-0.3.31+mc1.20.1.jar"
-    },
-    {
-      "path": "entity_model_features_1.20.1-forge-3.0.17.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/entity_model_features_1.20.1-forge-3.0.17.jar"
-    },
-    {
-      "path": "entity_texture_features_1.20.1-forge-7.0.13.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/entity_texture_features_1.20.1-forge-7.0.13.jar"
-    },
-    {
-      "path": "entityculling-forge-1.10.0-mc1.20.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/entityculling-forge-1.10.0-mc1.20.1.jar",
-    },
-    {
-      "path": "entityculling-forge-1.10.1-mc1.20.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/entityculling-forge-1.10.1-mc1.20.1.jar"
-    },
-    {
-      "path": "oculus-mc1.20.1-1.8.0.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/oculus-mc1.20.1-1.8.0.jar"
-    },
-    {
-      "path": "skinlayers3d-forge-1.11.0-mc1.20.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/skinlayers3d-forge-1.11.0-mc1.20.1.jar"
-    },
-    {
-      "path": "sodiumextras-forge-1.0.7-1.20.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/sodiumextras-forge-1.0.7-1.20.1.jar"
-    },
-    {
-      "path": "xaerominimap-forge-1.20.1-25.3.10.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/xaerominimap-forge-1.20.1-25.3.10.jar"
-    },
-    {
-      "path": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar"
-    },
-    {
-      "path": "xlpackets-1.18.2-2.1.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/xlpackets-1.18.2-2.1.jar"
-    },
-    {
-      "path": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
-      "url": "https://github.com/Kr33tu/Launcherdzialaxd.pl/raw/refs/heads/main/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
     }    
   }
 }
