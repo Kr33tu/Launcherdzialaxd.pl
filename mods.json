@@ -5,445 +5,1057 @@
   "files": [
     {
       "path": "mods/[1.20.1] SecurityCraft v1.10.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/[1.20.1] SecurityCraft v1.10.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/[1.20.1] SecurityCraft v1.10.1.jar",
       "sha256": "ec601ba570c5351c353fc1ee0eb2f4823d1c026d265a96d3ec802070a50b6ebd",
       "size": 4769715
     },
     {
       "path": "mods/accessories-neoforge-1.0.0-beta.48\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/accessories-neoforge-1.0.0-beta.48\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/accessories-neoforge-1.0.0-beta.48\u002B1.20.1.jar",
       "sha256": "1da10e840cbbf08338a1690c3045d21a6b7c46681fa69ef3054698c97cb98e0d",
       "size": 1080048
     },
     {
+      "path": "mods/almanac-1.20.x-forge-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/almanac-1.20.x-forge-1.0.2.jar",
+      "sha256": "b8e0b42329c11739201d132bc99720e8205badc4ce862b30e4eec04b833e3419",
+      "size": 15906
+    },
+    {
+      "path": "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+      "sha256": "4889e05ade9095a40886db99e33abbbc50ccd931ae5052db6180da896c68d75d",
+      "size": 7336
+    },
+    {
+      "path": "mods/AmbientSounds_FORGE_v6.3.4_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/AmbientSounds_FORGE_v6.3.4_mc1.20.1.jar",
+      "sha256": "1368504e00bc50ba268d0f73558176889000ce11cad42dbab12e33a59d645495",
+      "size": 53428834
+    },
+    {
+      "path": "mods/amendments-1.20-2.2.5.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/amendments-1.20-2.2.5.jar",
+      "sha256": "2ecb189991320d789cd2c539d770b5b52ad71eff93d186297d10853bcb6ee00a",
+      "size": 1301022
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+      "size": 47428
+    },
+    {
       "path": "mods/Aquaculture-1.20.1-2.5.7.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Aquaculture-1.20.1-2.5.7.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Aquaculture-1.20.1-2.5.7.jar",
       "sha256": "4c96cf0dd3363a8e15f9ef6b6bfc00ac7d4791e8e9eeebe19b8092c59e800f8f",
       "size": 601839
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/architectury-9.2.14-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/architectury-9.2.14-forge.jar",
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
       "size": 580602
     },
     {
+      "path": "mods/ash_api-forge-3.0.2\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/ash_api-forge-3.0.2\u002B1.20.1.jar",
+      "sha256": "870944c83bf567f2b838c159632e825c44b9a30efe82934b349d165adc73d935",
+      "size": 39020
+    },
+    {
       "path": "mods/athena-forge-1.20.1-3.1.2.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/athena-forge-1.20.1-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/athena-forge-1.20.1-3.1.2.jar",
       "sha256": "64eec9cffb8847a459536096ac396b135ffb07c7d9d13c6a47d9cd7b251276ab",
       "size": 91808
     },
     {
+      "path": "mods/autosyncyes-1.0.0-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/autosyncyes-1.0.0-forge-1.20.1.jar",
+      "sha256": "50efb70214df445e9451897de4bd937916c57b693783743e72cd11d7f66e3171",
+      "size": 3136
+    },
+    {
       "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/BadOptimizations-2.4.1-1.20.1.jar",
       "sha256": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
       "size": 460234
     },
     {
       "path": "mods/balm-forge-1.20.1-7.3.38-all.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/balm-forge-1.20.1-7.3.38-all.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/balm-forge-1.20.1-7.3.38-all.jar",
       "sha256": "1f5222d5c0ab72b1f60d83c5b371faa9cf733635810efb2695a7bd56dbfa4458",
       "size": 591398
     },
     {
       "path": "mods/BCLib-20.0.9.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BCLib-20.0.9.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/BCLib-20.0.9.jar",
       "sha256": "fc495d2a7847c630012dbc62e9171a0fe8905e569aa766e39d04dabe99f31976",
       "size": 2177038
     },
     {
       "path": "mods/betterarcheology-1.2.1-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/betterarcheology-1.2.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/betterarcheology-1.2.1-1.20.1.jar",
       "sha256": "4180f72ec4b69690ec160ac50e48c087f0fe7c98681dcd1f70d82ed5cbfeec9e",
       "size": 982838
     },
     {
+      "path": "mods/betterchunkloading-1.20.1-5.4.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/betterchunkloading-1.20.1-5.4.jar",
+      "sha256": "86ae160bdd974452e0198e27d473d43b25d6df8b0abebee95d6381ae90339caa",
+      "size": 55968
+    },
+    {
       "path": "mods/bettercombat-forge-1.9.0\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/bettercombat-forge-1.9.0\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/bettercombat-forge-1.9.0\u002B1.20.1.jar",
       "sha256": "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1",
       "size": 1054339
     },
     {
       "path": "mods/BetterEnd-20.0.8.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BetterEnd-20.0.8.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/BetterEnd-20.0.8.jar",
       "sha256": "499d0b441d20e10347bb9b226ad5e250f9d377d650d7e7ae909706a7cc473d3d",
       "size": 93563673
     },
     {
       "path": "mods/BetterNetherByVexer-20.0.11.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BetterNetherByVexer-20.0.11.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/BetterNetherByVexer-20.0.11.jar",
       "sha256": "66aa889ffb8829b4ad213b18ea80d2f19c671e28905780fd03fe6e37454f9b59",
       "size": 23242401
     },
     {
+      "path": "mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "sha256": "9e8b26db627f1eaa6f4daa3a771c5ac844ec29249bc251273df394736451d3f2",
+      "size": 2612506
+    },
+    {
       "path": "mods/BlockPops - Forge - 1.20.1-1.5.0.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BlockPops - Forge - 1.20.1-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/BlockPops - Forge - 1.20.1-1.5.0.jar",
       "sha256": "e21bb4d55da05e8111f36886c140e7b511ea78de2acedfb3171ca6b9f354bfeb",
       "size": 5537942
     },
     {
+      "path": "mods/blur-forge-3.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/blur-forge-3.1.1.jar",
+      "sha256": "7ab7248ecfc0fa9cf2e6dd7530732263e580d7a794a6ba999366af345e7c8e71",
+      "size": 177259
+    },
+    {
       "path": "mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
       "sha256": "7980d4a0beed1dcd2c283cf65f3c93f6b0085833f3ac490014979c95f1dfaf67",
       "size": 343925
     },
     {
+      "path": "mods/BorderlessWindow-1.20-1.6.0.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/BorderlessWindow-1.20-1.6.0.jar",
+      "sha256": "43a317d85e7e40cea296ad1fe2d32f433f0e735bdb81b136f6f07d379039c3a9",
+      "size": 44027
+    },
+    {
       "path": "mods/BrewinAndChewin-1.20.1-3.2.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/BrewinAndChewin-1.20.1-3.2.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/BrewinAndChewin-1.20.1-3.2.1.jar",
       "sha256": "d06edc7a145e8808903b7bd06e0639458a817fbc4ee589be239c0af77a6367db",
       "size": 1206255
     },
     {
       "path": "mods/camera-forge-1.20.1-1.0.20.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/camera-forge-1.20.1-1.0.20.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/camera-forge-1.20.1-1.0.20.jar",
       "sha256": "37c239ec9ed166f378829b0de151c7b7e40158c03ef18ca67d0fcc3a1827adac",
       "size": 299727
     },
     {
       "path": "mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
       "sha256": "5fdbc245003d2cb46b92eb9120d7bca7f03422628daed24c818baa195efe8663",
       "size": 2613393
     },
     {
+      "path": "mods/chat_heads-0.15.0-forge-1.20.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/chat_heads-0.15.0-forge-1.20.jar",
+      "sha256": "d35e37f89c72dcdff90b9067c240aca75125ffd4232cfbe60bc096046d833a2d",
+      "size": 722765
+    },
+    {
       "path": "mods/chipped-forge-1.20.1-3.0.7.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/chipped-forge-1.20.1-3.0.7.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/chipped-forge-1.20.1-3.0.7.jar",
       "sha256": "300e02535342b710fb34409821de9d097b0d8b17f56a57a17d75d05c4c1c5b63",
       "size": 15060263
     },
     {
+      "path": "mods/Chunky-1.3.146.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Chunky-1.3.146.jar",
+      "sha256": "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141",
+      "size": 341451
+    },
+    {
+      "path": "mods/cinematiczoom-1.0.0k.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/cinematiczoom-1.0.0k.jar",
+      "sha256": "ecf0d2b01eb9a3f82a10b208b926eba251d3087d3c92b864f79d153b4b5f589f",
+      "size": 12450
+    },
+    {
+      "path": "mods/citresewn-1.20.1-5.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/citresewn-1.20.1-5.jar",
+      "sha256": "b7fdf42262e9be2dd599386128ed0383d339dd4b585eea0f73f5bde5f0de5832",
+      "size": 188383
+    },
+    {
+      "path": "mods/clientsort-forge-2.1.7\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/clientsort-forge-2.1.7\u002B1.20.1.jar",
+      "sha256": "a6585ab488056ea36b389e0a906cc4fbe63b9a0a2dbcc1245996bbe2b05f3ad3",
+      "size": 936104
+    },
+    {
       "path": "mods/cloth-config-11.1.136-forge.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/cloth-config-11.1.136-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/cloth-config-11.1.136-forge.jar",
       "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
       "size": 1181413
     },
     {
       "path": "mods/cluttered-[Forge]-3.0.3-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/cluttered-[Forge]-3.0.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/cluttered-[Forge]-3.0.3-1.20.1.jar",
       "sha256": "c910256a0b14a9dd0eb0395201730d12fdd5cb793b5bc3f3ecc58566485f26af",
       "size": 5551679
     },
     {
       "path": "mods/Cocktails-Delight-1.20.1-Forge-1.3.6.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Cocktails-Delight-1.20.1-Forge-1.3.6.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Cocktails-Delight-1.20.1-Forge-1.3.6.jar",
       "sha256": "f4e23d09d3a2a58c756100a1ba9b11a4047ca97f8c8d5573f774a4c5fc67f0f8",
       "size": 218913
     },
     {
+      "path": "mods/collective-1.20.1-8.13.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/collective-1.20.1-8.13.jar",
+      "sha256": "80dd754b75c530768904e912ace11e0cf4deac7d1784b883dbeaead082469cd2",
+      "size": 665169
+    },
+    {
       "path": "mods/comforts-forge-6.4.0\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/comforts-forge-6.4.0\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/comforts-forge-6.4.0\u002B1.20.1.jar",
       "sha256": "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
       "size": 382083
     },
     {
       "path": "mods/connectedglass-1.1.14-forge-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/connectedglass-1.1.14-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/connectedglass-1.1.14-forge-mc1.20.1.jar",
       "sha256": "a00e37b978c6d73110157879373fe3e97784bbf0c8d4e5fc8dbd9f00e1113fc0",
       "size": 873714
     },
     {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "sha256": "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944",
+      "size": 115280
+    },
+    {
+      "path": "mods/copycats-3.0.7\u002Bmc.1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/copycats-3.0.7\u002Bmc.1.20.1-forge.jar",
+      "sha256": "bc59446d8aff50924f805286927a1bda3df16c6f4e6f893865f410e581b62f1a",
+      "size": 1996097
+    },
+    {
       "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/coroutil-forge-1.20.1-1.3.7.jar",
       "sha256": "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
       "size": 64187
     },
     {
       "path": "mods/corpse-forge-1.20.1-1.0.23.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/corpse-forge-1.20.1-1.0.23.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/corpse-forge-1.20.1-1.0.23.jar",
       "sha256": "9f639204588512abe767bb5c2ff97d41f50352af916de939ac8029c95d57ae7b",
       "size": 245643
     },
     {
       "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/cosmeticarmorreworked-1.20.1-v1a.jar",
       "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
       "size": 88752
     },
     {
       "path": "mods/CreateByVexer-6.0.8-10.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/CreateByVexer-6.0.8-10.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/CreateByVexer-6.0.8-10.jar",
       "sha256": "61e3cce0c3d7474174bb884bf9cb0ebabbe1dba6890288b4f12b7c35aef42aff",
       "size": 19180443
     },
     {
+      "path": "mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+      "sha256": "2c5e9efe5b256b35be24dafea2f8e26e829793fc144e95eeceabf9f1f4e601f2",
+      "size": 1143788
+    },
+    {
       "path": "mods/CreativeCore_FORGE_v2.12.38_mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/CreativeCore_FORGE_v2.12.38_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/CreativeCore_FORGE_v2.12.38_mc1.20.1.jar",
       "sha256": "629afffc34377f27813466a5b8e9e83b5aea198462ff776780776be4693a7ead",
       "size": 1144069
     },
     {
+      "path": "mods/cristellib-1.1.6-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/cristellib-1.1.6-forge.jar",
+      "sha256": "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f",
+      "size": 431318
+    },
+    {
       "path": "mods/crittersandcompanions-forge-1.20.1-2.3.8-vexer.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/crittersandcompanions-forge-1.20.1-2.3.8-vexer.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/crittersandcompanions-forge-1.20.1-2.3.8-vexer.jar",
       "sha256": "8ca726e7976b765f89e3e4ac1fe78e137cbf5c938de9ef0d72c12b3b0f781e87",
       "size": 737456
     },
     {
+      "path": "mods/cupboard-1.20.1-3.5.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/cupboard-1.20.1-3.5.jar",
+      "sha256": "68ac8d4df915d7610eca62edc7ad33e9fe6e938701766739a34f71abfc9bd20d",
+      "size": 29505
+    },
+    {
+      "path": "mods/Delightful-1.20.1-3.7.8.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Delightful-1.20.1-3.7.8.jar",
+      "sha256": "9b1751166153eea48674463b1e3b9bedaf21985c1f924744ed1830511c52a04e",
+      "size": 1609113
+    },
+    {
       "path": "mods/Delightful-1.20.1-3.8.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Delightful-1.20.1-3.8.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Delightful-1.20.1-3.8.1.jar",
       "sha256": "b4cc8808db58ab96440d79a509d72c52a71cc97450d8437d8072d32a278994f4",
       "size": 1774007
     },
     {
+      "path": "mods/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
+      "sha256": "e29c5d6a47ce40ec174f96104ac3639605de30e3811b39907de7070feb230cc2",
+      "size": 25378978
+    },
+    {
+      "path": "mods/doubledoors-1.20.1-7.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/doubledoors-1.20.1-7.2.jar",
+      "sha256": "1847baf0f97a3ebc07735743b0e226c45dd7c289cd03214bcfc7f49ed44ccb1e",
+      "size": 54300
+    },
+    {
+      "path": "mods/dungeons_enhanced-1.20.1-5.4.3.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/dungeons_enhanced-1.20.1-5.4.3.jar",
+      "sha256": "caf6a694cf338d77b71208dcdd4e234e5b87594123a55bfb4f4e0122ae61b9c3",
+      "size": 1421681
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4\u002Bminecraft-1.20.0-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/dynamic-fps-3.11.4\u002Bminecraft-1.20.0-forge.jar",
+      "sha256": "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920",
+      "size": 402345
+    },
+    {
+      "path": "mods/embeddium-0.3.31\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/embeddium-0.3.31\u002Bmc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "sha256": "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14",
+      "size": 680255
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "sha256": "909d1941d4ef6e4b7336738ee31380d6e1117c3c22feb70b64fed47f1cba2b07",
+      "size": 66883
+    },
+    {
+      "path": "mods/entity_model_features_1.20.1-forge-3.0.17.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/entity_model_features_1.20.1-forge-3.0.17.jar",
+      "sha256": "1dae988d4a83f3ebdfbf39c80258ff4a736b706752b414edf60fd2945f61e43f",
+      "size": 685153
+    },
+    {
+      "path": "mods/entity_texture_features_1.20.1-forge-7.0.13.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/entity_texture_features_1.20.1-forge-7.0.13.jar",
+      "sha256": "0aa3cecb97a84c9171fbd7e681ba5f2851bb98419744b2907dc34f7f78c69d17",
+      "size": 927665
+    },
+    {
+      "path": "mods/entityculling-forge-1.10.0-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/entityculling-forge-1.10.0-mc1.20.1.jar",
+      "sha256": "dcb672eaefeca825dd43ac258cbbddb179d2434a96578a4b60e34624c33663ec",
+      "size": 1577833
+    },
+    {
+      "path": "mods/entityculling-forge-1.10.1-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/entityculling-forge-1.10.1-mc1.20.1.jar",
+      "sha256": "1231bb17e3db1a7d4e98800bb070ec1e7e7c016b934e1eb11c1cc63d11d0aa2d",
+      "size": 1583021
+    },
+    {
       "path": "mods/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
       "sha256": "6b4853214c5cc156b187b86162df2db028c0ddcf90380fa1897068cde2622de1",
       "size": 4025908
     },
     {
+      "path": "mods/FantasyArmorbyVexer-1.2.4-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/FantasyArmorbyVexer-1.2.4-1.20.1.jar",
+      "sha256": "474865175a9dda0790527c513b5ebef37efe0df8cfd595fa9a5e62d3b162dc00",
+      "size": 638117
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.11.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/FarmersDelight-1.20.1-1.2.11.jar",
+      "sha256": "9a2db05541f07e15a81d514f4f47627f1c738d0464c1885765aa460117909318",
+      "size": 2963127
+    },
+    {
       "path": "mods/FarmersDelight-1.20.1-1.3.2.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/FarmersDelight-1.20.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/FarmersDelight-1.20.1-1.3.2.jar",
       "sha256": "47aed94bb9192c4978fe199f9d3ca5895aeccfbe5b5a0869fdf3aa011c2641f7",
       "size": 3313327
     },
     {
+      "path": "mods/fastasyncworldsave-1.20.1-2.6.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/fastasyncworldsave-1.20.1-2.6.jar",
+      "sha256": "31283f2d8ad9462cb9619cc1bd2e61afa24939b91dcf46c87d5495e3c61207f7",
+      "size": 14812
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034
+    },
+    {
       "path": "mods/framework-forge-1.20.1-0.8.0.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/framework-forge-1.20.1-0.8.0.jar",
       "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0",
       "size": 383868
     },
     {
       "path": "mods/fusion-1.2.12-forge-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/fusion-1.2.12-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/fusion-1.2.12-forge-mc1.20.1.jar",
       "sha256": "5cb039922e08ae6b8705d50e484a8759579025fb4f48413fa62d2056505fb45e",
       "size": 544586
     },
     {
       "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/geckolib-forge-1.20.1-4.8.3.jar",
       "sha256": "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702",
       "size": 1039047
     },
     {
+      "path": "mods/grieflogger-1.2.4-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/grieflogger-1.2.4-1.20.1-forge.jar",
+      "sha256": "5c416c2158c4f3b3a257a0e9d1dafa73e11830464a71548df9e4173ae60f9794",
+      "size": 19001735
+    },
+    {
       "path": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/handcrafted-forge-1.20.1-3.0.6.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/handcrafted-forge-1.20.1-3.0.6.jar",
       "sha256": "1da3c7c524bfb656bb370757af55f08f1678e8e1cb934e1c4c04aa773ed64a79",
       "size": 7111059
     },
     {
+      "path": "mods/holdmyitems-1.20.1v2.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/holdmyitems-1.20.1v2.1.jar",
+      "sha256": "0062e9bc6212f028402cd67bc107b2cc4b19e0875022c2ab73403c7733bf2966",
+      "size": 330100
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.4\u002B1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/ImmediatelyFast-Forge-1.5.4\u002B1.20.4.jar",
+      "sha256": "da781a31b2c8d8a845ed48c89b6463f1df3f2c655de10d8d4f5bed8123ff68a8",
+      "size": 538992
+    },
+    {
+      "path": "mods/immersive_aircraft-1.4.0\u002B1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/immersive_aircraft-1.4.0\u002B1.20.1-forge.jar",
+      "sha256": "45dd68b6707b3eeae0c958d0242b29ec03cdd0d8fc88af20761661ebf3c456cd",
+      "size": 2428368
+    },
+    {
       "path": "mods/immersive_aircraft-1.4.1\u002B1.20.1-forge.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/immersive_aircraft-1.4.1\u002B1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/immersive_aircraft-1.4.1\u002B1.20.1-forge.jar",
       "sha256": "fe54dd2d78591a16f44600940bc66c7d40a83888f5a9e4623da888dc6f7421de",
       "size": 2435800
     },
     {
+      "path": "mods/immersive_melodies-0.6.0\u002B1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/immersive_melodies-0.6.0\u002B1.20.1-forge.jar",
+      "sha256": "7625e0cf725b4316a61a30bc2fd3a50c80f29001502e3fd90852e573263d937a",
+      "size": 5517578
+    },
+    {
       "path": "mods/immersive_melodies-0.6.1\u002B1.20.1-forge.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/immersive_melodies-0.6.1\u002B1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/immersive_melodies-0.6.1\u002B1.20.1-forge.jar",
       "sha256": "3eaffc8239a87500391e93516f1eb6f05823767fe0153a2644c4996996678783",
       "size": 5517554
     },
     {
+      "path": "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "sha256": "a0de109d3405fbf4290e10df4f812eadd5125debb16ea7e9d908acbbabcb516b",
+      "size": 22930
+    },
+    {
       "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Jade-1.20.1-Forge-11.13.2.jar",
       "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5",
       "size": 552486
     },
     {
       "path": "mods/jei-1.20.1-forge-15.20.0.112.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/jei-1.20.1-forge-15.20.0.112.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/jei-1.20.1-forge-15.20.0.112.jar",
       "sha256": "2d3a86f503dbde51afa5142951525c37e227016ce8d9e7dfd10bbdd9233f0204",
       "size": 1385600
     },
     {
+      "path": "mods/letmedespawn-1.20.x-forge-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/letmedespawn-1.20.x-forge-1.5.0.jar",
+      "sha256": "c6be3d9a62234d96d302369ac0a0ee238bdc0cf1b7f7280532d4365e9fabc09e",
+      "size": 14789
+    },
+    {
       "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/libraryferret-forge-1.20.1-4.0.0.jar",
       "sha256": "66a151ed397904135c0109ce390bee93961ef7dd329a2d66860ef5f27adff335",
       "size": 244410
     },
     {
       "path": "mods/lootr-forge-1.20-0.7.35.94.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/lootr-forge-1.20-0.7.35.94.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/lootr-forge-1.20-0.7.35.94.jar",
       "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51",
       "size": 463485
     },
     {
       "path": "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
       "sha256": "95c5aae4e82758d5c0ca2ba61c4cf72e9240e53f68befe8104c68fa9f9b19eed",
       "size": 693579
     },
     {
       "path": "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
       "sha256": "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af",
       "size": 1246753
     },
     {
       "path": "mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
       "sha256": "c2abff58334d79ea61278c6dffd941a4f4ceb5cffadf889359fd45a003738217",
       "size": 604510
     },
     {
+      "path": "mods/mixin-booster-0.1.3\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mixin-booster-0.1.3\u002B1.20.1.jar",
+      "sha256": "b311e0bed06affaf28c1e7cf62c464c429178f5bce4b958ad651996560fbb61f",
+      "size": 1312078
+    },
+    {
+      "path": "mods/mobstacker-1.20.x-forge-1.0.14b.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mobstacker-1.20.x-forge-1.0.14b.jar",
+      "sha256": "5dca5e385dd333c582bf039a230a16ab28547103122265b38f74649469994e16",
+      "size": 63506
+    },
+    {
+      "path": "mods/mobtimizations-forge-1.20.1-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mobtimizations-forge-1.20.1-1.0.1.jar",
+      "sha256": "1713bbf6aba4e5cdf21854cc8daf6b4c3893bc175778367273b9b052340ae168",
+      "size": 27943
+    },
+    {
+      "path": "mods/modernfix-forge-5.26.2\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/modernfix-forge-5.26.2\u002Bmc1.20.1.jar",
+      "sha256": "e9f00f787a78a976b8493eafeee63ff08fadb31bcb0a1e938d7b940d17ac70ae",
+      "size": 826829
+    },
+    {
+      "path": "mods/MoFlowers-By-Vexer-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/MoFlowers-By-Vexer-1.0.0.jar",
+      "sha256": "6e85bcc1d43459b41d465c28302e749adfe05e781b6b561d2f5451ec4ccc320a",
+      "size": 158534
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.28-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/moonlight-1.20-2.16.28-forge.jar",
+      "sha256": "46ee59799b38da7b87b734e4f6f11be886a15cab51cbf78614bb50f9e43b3278",
+      "size": 1393921
+    },
+    {
+      "path": "mods/moremobvariants-forge\u002B1.20.1-1.3.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/moremobvariants-forge\u002B1.20.1-1.3.0.1.jar",
+      "sha256": "d1c8c6922bce56092896056e73d235cb651787f3b6821e825bf5095c9b16cb13",
+      "size": 379988
+    },
+    {
       "path": "mods/moreprotectables-1.20.1-1.2.3.10.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/moreprotectables-1.20.1-1.2.3.10.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/moreprotectables-1.20.1-1.2.3.10.jar",
       "sha256": "088be66bea8c8d0945d858d9a8249f84e204d5c29a212d2c6866d12b9fcd1f66",
       "size": 222837
     },
     {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
+      "size": 76237
+    },
+    {
       "path": "mods/movingelevators-1.4.12-forge-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/movingelevators-1.4.12-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/movingelevators-1.4.12-forge-mc1.20.1.jar",
       "sha256": "ce330a64250af28872d7561783c32a22dce05e8e41682c35499fdc597e20df95",
       "size": 333266
     },
     {
       "path": "mods/napomocbyvexer2-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/napomocbyvexer2-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/napomocbyvexer2-1.0.0.jar",
       "sha256": "4b9a98ef5fcbb46724d6de1b545d51a76f0066886e1933dfbb31455bc36d2e07",
       "size": 6343
     },
     {
+      "path": "mods/Necronomicon-Forge-1.6.0\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Necronomicon-Forge-1.6.0\u002B1.20.1.jar",
+      "sha256": "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3",
+      "size": 33251
+    },
+    {
+      "path": "mods/nopackcompatcheck-0.1.0-forge-mc1.20.1-all.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/nopackcompatcheck-0.1.0-forge-mc1.20.1-all.jar",
+      "sha256": "822c38aab569afe7fbcaeeab1bf3ccc5713c24acb79102059dbbaafde159ccbb",
+      "size": 652536
+    },
+    {
+      "path": "mods/notenoughanimations-forge-1.12.0-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/notenoughanimations-forge-1.12.0-mc1.20.1.jar",
+      "sha256": "d76046b3ced7f8d18c3b021747f8beb03904f5984a9da7c66f9464084e209d1b",
+      "size": 1937062
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "size": 2851119
+    },
+    {
+      "path": "mods/open-parties-and-claims-forge-1.20.1-0.25.10.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/open-parties-and-claims-forge-1.20.1-0.25.10.jar",
+      "sha256": "633b8ff5c39e60e358730e763b6fd1880296dff40be23d106e402abc7e8bbd80",
+      "size": 1319858
+    },
+    {
+      "path": "mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "sha256": "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce",
+      "size": 188661
+    },
+    {
       "path": "mods/Paintings-forge-1.20.1-11.0.0.2.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Paintings-forge-1.20.1-11.0.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Paintings-forge-1.20.1-11.0.0.2.jar",
       "sha256": "28df2f243f95c34a335db3821bef973e40889b4c4af899b753228fec0b5c273a",
       "size": 192334
     },
     {
       "path": "mods/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
       "sha256": "1595c586e9c3e7e9a455d23b1686cc82f8d9e11578efd86a10a7031995301390",
       "size": 864398
     },
     {
       "path": "mods/Paraglider-forge-20.1.4-byvexer.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Paraglider-forge-20.1.4-byvexer.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Paraglider-forge-20.1.4-byvexer.jar",
       "sha256": "71d4772e04a9f99e682b84305c1ccc99b56572bcdbff6fe9170631d3bcc2f88a",
       "size": 612026
     },
     {
+      "path": "mods/PatPat-1.2.4\u002B1.20.1\u002Bforge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/PatPat-1.2.4\u002B1.20.1\u002Bforge.jar",
+      "sha256": "056fffacdd02416d21ef8d15938517f92818dc232e5754927c51333588820d25",
+      "size": 1379702
+    },
+    {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1\u002B1.20.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/player-animation-lib-forge-1.0.2-rc1\u002B1.20.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/player-animation-lib-forge-1.0.2-rc1\u002B1.20.jar",
       "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
       "size": 181437
     },
     {
+      "path": "mods/plushie_buddies-1.0.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/plushie_buddies-1.0.0-1.20.1.jar",
+      "sha256": "7ca6cdfd86c364e0d37b3061f0aa0446a78f9a53d89d0babda9ac580b549382c",
+      "size": 475893
+    },
+    {
       "path": "mods/plushie_buddies-1.0.1-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/plushie_buddies-1.0.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/plushie_buddies-1.0.1-1.20.1.jar",
       "sha256": "05cc491174dcbd3146428cf8b384a1bedae3cb73ebc04c6d0716b12e8cf62390",
       "size": 476305
     },
     {
       "path": "mods/polymorph-forge-0.49.10\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/polymorph-forge-0.49.10\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/polymorph-forge-0.49.10\u002B1.20.1.jar",
       "sha256": "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f",
       "size": 299601
     },
     {
       "path": "mods/pomocbyvexer-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/pomocbyvexer-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/pomocbyvexer-1.0.1.jar",
       "sha256": "cdf11f24c3321bb1910789c4e550d85e9f06b71ce69da91c3c13bc90cb1b10ac",
       "size": 6308
     },
     {
       "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
       "sha256": "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8",
       "size": 432753
     },
     {
       "path": "mods/Ribbits-1.20.1-Forge-3.0.5.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/Ribbits-1.20.1-Forge-3.0.5.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Ribbits-1.20.1-Forge-3.0.5.jar",
       "sha256": "e04aa665df7e96844fe8833f29cc343feefac8ad7b949399d7b4a60475123e2b",
       "size": 2223589
     },
     {
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha256": "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576",
+      "size": 77732
+    },
+    {
       "path": "mods/simplehats-forge-1.20.1-0.4.0a.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/simplehats-forge-1.20.1-0.4.0a.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/simplehats-forge-1.20.1-0.4.0a.jar",
       "sha256": "feda3e674f2db27da910344a7909bcdb88e0a7d3202a4d58426677e27a4e7f43",
       "size": 1404910
     },
     {
       "path": "mods/simplyswords-forge-1.56.0-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/simplyswords-forge-1.56.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/simplyswords-forge-1.56.0-1.20.1.jar",
       "sha256": "318f1c362b69db22324cc87307549643b795d7c57b652cebdc9d946f03a21c5f",
       "size": 15202091
     },
     {
+      "path": "mods/skinlayers3d-forge-1.11.0-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/skinlayers3d-forge-1.11.0-mc1.20.1.jar",
+      "sha256": "52767efde0450dfca5fd18d170fe867d2f9e63e24cdef53087b0cf70ea3e19fc",
+      "size": 2163516
+    },
+    {
       "path": "mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
       "sha256": "f79a4dcab3e1c8e4d14467cbfa655f4a16e0f0d0901e8f9bde9e3f5e36735eff",
       "size": 1816687
     },
     {
+      "path": "mods/smoothchunk-1.20.1-4.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/smoothchunk-1.20.1-4.1.jar",
+      "sha256": "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1",
+      "size": 14249
+    },
+    {
+      "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "sha256": "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
+      "size": 511601
+    },
+    {
+      "path": "mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "sha256": "ce9a13c5f07e350f9c0b86af9e096aedb91cbc72996e59646da61ec724f1e4df",
+      "size": 438540
+    },
+    {
+      "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha256": "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415",
+      "size": 443978
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.24.30.1614.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/sophisticatedbackpacks-1.20.1-3.24.30.1614.jar",
+      "sha256": "ef5b0c54f57d94fe2bef683add74c8093f8dffcb93881fa838f353946a290657",
+      "size": 1013859
+    },
+    {
       "path": "mods/sophisticatedbackpacks-1.20.1-3.24.57.1908.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/sophisticatedbackpacks-1.20.1-3.24.57.1908.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/sophisticatedbackpacks-1.20.1-3.24.57.1908.jar",
       "sha256": "cd6c7dac0c7f9eeebb147055f90dc16e87a3bab2fbe441a28db837cdff5e95d5",
       "size": 1129266
     },
     {
+      "path": "mods/sophisticatedcore-1.20.1-1.3.12.1578.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/sophisticatedcore-1.20.1-1.3.12.1578.jar",
+      "sha256": "bb8998f3c6b681c2ba1f8d698af15ec2dc3646f56f834e3d5381aa87c9a693f2",
+      "size": 1423513
+    },
+    {
       "path": "mods/sophisticatedcore-1.20.1-1.3.54.2027.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/sophisticatedcore-1.20.1-1.3.54.2027.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/sophisticatedcore-1.20.1-1.3.54.2027.jar",
       "sha256": "632d912ce6ecc9cd8df3242641521989d333ed15a5dfc1a2f8175d8db1e2fc80",
       "size": 1606210
     },
     {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+      "sha256": "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1",
+      "size": 203819
+    },
+    {
+      "path": "mods/spark-1.10.53-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/spark-1.10.53-forge.jar",
+      "sha256": "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed",
+      "size": 3114590
+    },
+    {
+      "path": "mods/stardew_fishing-3.6-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/stardew_fishing-3.6-1.20.1.jar",
+      "sha256": "ace2b5ab412670bccd7ae1ad8b60663e634e4639faad0bfa7d2f1b8032359f7a",
+      "size": 885511
+    },
+    {
       "path": "mods/stardew_fishing-3.7-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/stardew_fishing-3.7-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/stardew_fishing-3.7-1.20.1.jar",
       "sha256": "42b26d951d6abbf88ad65c53ed07951cde92ec53e13630719cab15806ce91f0c",
       "size": 1339256
     },
     {
+      "path": "mods/starlight-1.1.2\u002Bforge.1cda73c.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/starlight-1.1.2\u002Bforge.1cda73c.jar",
+      "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500",
+      "size": 110583
+    },
+    {
       "path": "mods/structure_gel-1.20.1-2.16.2.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/structure_gel-1.20.1-2.16.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/structure_gel-1.20.1-2.16.2.jar",
       "sha256": "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e",
       "size": 966028
     },
     {
+      "path": "mods/structures-2.4-all.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/structures-2.4-all.jar",
+      "sha256": "7af843f52f155972512c320901b1c5aadeeb62f368516b6a6bfab01dc9c28517",
+      "size": 310946
+    },
+    {
       "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
       "sha256": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3",
       "size": 206584
     },
     {
       "path": "mods/supermartijn642corelib-1.1.21-forge-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/supermartijn642corelib-1.1.21-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/supermartijn642corelib-1.1.21-forge-mc1.20.1.jar",
       "sha256": "6e4f3664aaa5f4138a43acb246c0d91672372acb78a02b89a0531c11596f2c1c",
       "size": 554977
     },
     {
+      "path": "mods/supplementaries-1.20-3.1.42-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/supplementaries-1.20-3.1.42-forge.jar",
+      "sha256": "f58c2a725336f263e94870347df116e0198d7a8c36a6f7bdf065c566b0248811",
+      "size": 13661432
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha256": "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
+      "size": 107532
+    },
+    {
+      "path": "mods/Terralith_1.20.x_v2.5.4.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Terralith_1.20.x_v2.5.4.jar",
+      "sha256": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
+      "size": 3156901
+    },
+    {
       "path": "mods/torchmaster-20.1.9.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/torchmaster-20.1.9.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/torchmaster-20.1.9.jar",
       "sha256": "7c8984a2dc11c29147d0677958e9146a18578068bc00fbfcb1cddbaa60557682",
       "size": 119348
     },
     {
+      "path": "mods/Towns-and-Towers-1.12-Fabric\u002BForge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/Towns-and-Towers-1.12-Fabric\u002BForge.jar",
+      "sha256": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+      "size": 2864275
+    },
+    {
+      "path": "mods/transparent-forge-8.0.1\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/transparent-forge-8.0.1\u002B1.20.1.jar",
+      "sha256": "5395fbe149a8e2f56e51fbfde69a2121cc3a2f76b5159b796069fe89d5a88a25",
+      "size": 30757
+    },
+    {
+      "path": "mods/uranbyvexer-1.20.1-1.3.49.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/uranbyvexer-1.20.1-1.3.49.jar",
+      "sha256": "b88275408e19a7d72dabb6032dfd136ca4d17c6a58c9ab8000e1c5c9a148e96d",
+      "size": 434875
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.18.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/voicechat-forge-1.20.1-2.6.18.jar",
+      "sha256": "bd677c153b140263c007de7e06545dbd1cdd1084812fd02241db8ba5c5055b3f",
+      "size": 4903917
+    },
+    {
+      "path": "mods/wakes-1.20.1-Forge-1.0.9.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/wakes-1.20.1-Forge-1.0.9.jar",
+      "sha256": "fc1151f35ad965462ae1e463f41a7af55cf22fb1a2bc3b01231d4fd0e58b5ca7",
+      "size": 212248
+    },
+    {
       "path": "mods/wakes-1.20.1-Forge-1.3.5.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/wakes-1.20.1-Forge-1.3.5.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/wakes-1.20.1-Forge-1.3.5.jar",
       "sha256": "db081d7fbe01e0da28aa7984ddd5125aab783a877bb89f30f19e5f50a9d57c3e",
       "size": 212486
     },
     {
+      "path": "mods/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+      "sha256": "e7727c11b4d32aa25a7f1176cddef5f230f6f6b6dda3e37bf418b7f025b39ed8",
+      "size": 255481
+    },
+    {
+      "path": "mods/watermedia_youtube_plugin-2.1.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/watermedia_youtube_plugin-2.1.2.jar",
+      "sha256": "95c2841103b4d1e0c222f29b49d9500c0d5306772aa18c6eb11925be6ff7507e",
+      "size": 3830072
+    },
+    {
+      "path": "mods/watermedia-2.1.37.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/watermedia-2.1.37.jar",
+      "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
+      "size": 37046674
+    },
+    {
+      "path": "mods/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+      "sha256": "c04fb6d0996061c2e9d03efd2dd8eea6434355dfcb9618670bd52d632e00b90b",
+      "size": 82079
+    },
+    {
       "path": "mods/watut-forge-1.20.1-1.2.3.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/watut-forge-1.20.1-1.2.3.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/watut-forge-1.20.1-1.2.3.jar",
       "sha256": "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
       "size": 435496
     },
     {
       "path": "mods/waystones-forge-1.20.1-14.1.20.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/waystones-forge-1.20.1-14.1.20.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/waystones-forge-1.20.1-14.1.20.jar",
       "sha256": "f03014fabf2186a1dff69bbe2473b3373ab9d6c7d2ea8aa18e46b4f5c7dbacb2",
       "size": 533739
     },
     {
+      "path": "mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+      "sha256": "da63af14bd71b0be80376ed5ccc4e3669214e0e8baa5c7c1bbfa83d567513e9a",
+      "size": 283977
+    },
+    {
+      "path": "mods/wffixbyvexer-forge-mc1.20.1-v1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/wffixbyvexer-forge-mc1.20.1-v1.0.2.jar",
+      "sha256": "8ad78180a12f0c454cc1a8a2eb7be94e1eeb4b6f74a7c26841a816fc5d0da1fe",
+      "size": 18462
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/worldedit-mod-7.2.15.jar",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "size": 5825402
+    },
+    {
       "path": "mods/worldsaver-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/worldsaver-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/worldsaver-1.0.1.jar",
       "sha256": "683341007205d7c4cfdc13da7ceb6ae92b416e2795b482e0c9f5d455c9173154",
       "size": 28814
     },
     {
       "path": "mods/WunderLib-20.0.1.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/WunderLib-20.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/WunderLib-20.0.1.jar",
       "sha256": "33d30150d69f0b1f1b077dab0edbefdca5e274bfa9a56578c6fe35d4dc62ccbd",
       "size": 227846
     },
     {
+      "path": "mods/xaerominimap-forge-1.20.1-25.3.10.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/xaerominimap-forge-1.20.1-25.3.10.jar",
+      "sha256": "dd118045c4daa8e27614f576d515ba5b07e4ccae060b6b1a536437f155879c7b",
+      "size": 2146522
+    },
+    {
+      "path": "mods/xaeroworldmap-forge-1.20.1-1.40.11.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar",
+      "sha256": "d41ea1366e36f79f1b38efb44920fa9354a929eee070c493bda60b0c5cc2b16a",
+      "size": 1388342
+    },
+    {
+      "path": "mods/xlpackets-1.18.2-2.1.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/xlpackets-1.18.2-2.1.jar",
+      "sha256": "0df95f1cbb246435160b5767171d4a7cb690d044f0c436a1d406ad46a844114d",
+      "size": 4786
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6\u002B1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/yet_another_config_lib_v3-3.6.6\u002B1.20.1-forge.jar",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+      "size": 1105891
+    },
+    {
       "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsApi-1.20-Forge-4.0.6.jar",
       "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
       "size": 370524
     },
     {
+      "path": "mods/YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
+      "sha256": "bd1e07e03626ad851e7b84e5a8a6ecdd976f7e923a3e56df69c6b6e906e7389e",
+      "size": 401492
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "sha256": "5a74294725232c665b908af6e25224d111550cf69d74613e415b9f48ff150d16",
+      "size": 918012
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "sha256": "05c2f43a67116f0bbca32d903b55ce1655b9319ed6554080de02bd1d0c232a83",
+      "size": 387111
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "sha256": "728c0a807742356887edf7d4f736b3870b7c84007ec9c495c27da1dc0b61078d",
+      "size": 806652
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "sha256": "6632e7bcc58325098e85bcb755483de7cb3af92a5ea548f3b5c0162cbf0dc1dc",
+      "size": 492998
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "sha256": "12cffc99dccca69d294ba5bc39c331367794b339061572a6f3773620303a2f51",
+      "size": 619255
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "sha256": "bea2640c4afeb5231362a756d886ca4f246c7951175c91348272b3ce5d483bae",
+      "size": 1033262
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "sha256": "054b0a1be86510ed6bd05de66a29200f13f5603c0c9eb7e62074ddc3d19cb0e4",
+      "size": 473564
+    },
+    {
+      "path": "mods/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+      "sha256": "aea6b2a1580029f376ee06025be6fe280cd1bcfa8b91199319d94e19528753f0",
+      "size": 157602
+    },
+    {
       "path": "mods/zetter-1.20.1-0.21.7.jar",
-      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/mods/zetter-1.20.1-0.21.7.jar",
+      "url": "https://raw.githubusercontent.com/Kr33tu/Launcherdzialaxd.pl/main/mods/zetter-1.20.1-0.21.7.jar",
       "sha256": "5c165ba4b9d4dfde556b8303df2a141e120a8fce8e48a227b28dc695dfb1ed61",
       "size": 1343037
     }
